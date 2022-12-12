@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </h2>
-<h3 align="center">I am 30. Last year i started to learn educational for JavaScript frontend developer and i realy like it!</h3> 
+<h3 align="center">I am 30. In 2021 i started to learn educational for JavaScript frontend developer and i realy like it!</h3> 
 
 <h3 align="center">My projects</h3>
 <h4>1. Brain games - kit of 5 mathematic games in consol. Stack: JavaScript, Node.js, Git, GitHub Actions (CI).
